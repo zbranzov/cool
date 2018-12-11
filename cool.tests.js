@@ -10,7 +10,7 @@ const rimraf = require("rimraf");
 var env = process.env.cool;
 var server =
   env ||
-  "https://www.google.bg/search?biw=1638&bih=837&tbm=isch&sa=1&ei=r18OXKSVJqGnrgSa_5u4BA&q=christmas+sexy+chicks&oq=christmas+sexy+chicks&gs_l=img.3...26088.28654..29194...1.0..0.81.451.6......1....1..gws-wiz-img.......0i7i30j0i8i30j0i8i7i30j0i8i7i30i19.ezbo-Fg04_U#imgrc=_";
+  "https://scontent.fsof3-1.fna.fbcdn.net/v/t1.0-9/47391690_2150989878265659_4354943409027284992_n.jpg?_nc_cat=109&_nc_ht=scontent.fsof3-1.fna&oh=b5d72bba74c9346c9c12238d94db06ae&oe=5CAD12E4";
 describe("Hi ", function() {
   it("Mitko", function() {
     browser.get(server);
